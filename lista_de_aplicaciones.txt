@@ -1,0 +1,6 @@
+mosquitto mosquitto-clients
+apache2
+net-tools
+openssh-server
+ufw
+
