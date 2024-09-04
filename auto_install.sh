@@ -19,5 +19,11 @@ do
     clear
 done < "$archivo"
 
-echo "Aplicaciones instalados"
+echo "Aplicaciones instaladas"
+
+while IFS= read -r linea
+do
+    echo $linea
+done < "$archivo"
+
 

@@ -3,4 +3,6 @@ apache2
 net-tools
 openssh-server
 ufw
-
+python3
+mariadb-server mariadb-client
+wireless-tools
